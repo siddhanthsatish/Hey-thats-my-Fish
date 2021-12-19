@@ -1,0 +1,2 @@
+# Hey-thats-my-Fish-
+The goal of this project was to implement the game Hey, that’s my Fish! using the C programming language. The game is interactive and played between a human user and an AI. The focus of this project was primarily on exercising an introductory understanding of the C programming language including basic data types, looping and conditional constructs, arrays, iteration, basic I/O, formatted output, and functions.
